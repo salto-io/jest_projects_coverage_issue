@@ -1,0 +1,8 @@
+{
+  "name": "add",
+  "collectCoverage": true,
+  "collectCoverageFrom": [
+    "!**.json",
+    "!<rootDir>/coverage/**"
+  ]
+}

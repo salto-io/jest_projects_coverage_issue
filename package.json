@@ -1,0 +1,19 @@
+{
+  "name": "jest_projects_coverage_issue",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salto-io/jest_projects_coverage_issue.git"
+  },
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "scripts": {
+    "test": "jest",
+    "test2": "jest --config jest.config.2.json"
+  }
+}

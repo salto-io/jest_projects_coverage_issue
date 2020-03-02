@@ -1,0 +1,10 @@
+{
+  "collectCoverage": true,
+  "projects": [
+    "packages/*"
+  ],
+  "collectCoverageFrom": [
+    "packages/add/index.js",
+    "!packages/mul/index.js"
+  ]
+}

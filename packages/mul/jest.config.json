@@ -1,0 +1,9 @@
+{
+  "name": "mul",
+  "collectCoverage": true,
+  "collectCoverageFrom": [
+    "!**.json",
+    "!<rootDir>/coverage/**",
+    "!<rootDir>/index.js"
+  ]
+}
