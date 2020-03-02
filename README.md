@@ -1,6 +1,6 @@
-# Sample repo
+# Sample repo for [Jest issue #9628](https://github.com/facebook/jest/issues/9628)
 
-Demonstrating Jest issue with [`projects`](https://jestjs.io/docs/en/configuration.html#projects-arraystring--projectconfig) and [`collectCoverageFrom`](https://jestjs.io/docs/en/configuration.html#collectcoveragefrom-array).
+Jest [`projects`](https://jestjs.io/docs/en/configuration.html#projects-arraystring--projectconfig) and [`collectCoverageFrom`](https://jestjs.io/docs/en/configuration.html#collectcoveragefrom-array) do not work together.
 
 ## Structure
 
